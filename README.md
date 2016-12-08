@@ -8,10 +8,13 @@ Sample website with plenty of files for demos
 
 ## Description
 
-Tihs is a sample to show variuos scenario's of git changes and git workflow
+This is a sample to show variuos scenario's of git changes and git workflow
 
 ## Deployment
+here will come the guidelines for deployment
 
 ## How to contribute
+to be announced
 
 ## References
+none
